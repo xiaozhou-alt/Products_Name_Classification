@@ -1,0 +1,5 @@
+https://www.kaggle.com/models/rexinshiminxiaozhou/products_name_classification
+
+origin_0.975-0.928
+improve_0.971-0.916
+训练代码对应_一类标签准确率-二类标签准确率
