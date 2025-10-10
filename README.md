@@ -283,3 +283,5 @@ improve：
 
 ![](./output/pic/sample3.png)
 
+更多信息可见我的博客[基于 RoBERTa + 多策略优化的中文商品名细粒度分类](https://blog.csdn.net/soejjdiwjssundo/article/details/152456854)
+
